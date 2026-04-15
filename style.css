@@ -1,0 +1,35 @@
+h1{ 
+
+text-align: center; 
+} 
+.div2 {
+font-size: 30px; 
+display: flex; 
+justify-content: flex-start; 
+gap: 400px;
+padding:0px 26px;  
+margin: 20px 50px;
+ margin-left: -16px; 
+}
+
+
+.n{
+font-size: 26px; 
+margin-left: 110px; 
+margin-top: 15px; 
+transform: translatey(-49px);
+ }
+.div1{
+font-size: 26px; 
+margin-left: 580px; 
+margin-top: 26px; 
+transform: translateY(-720px);
+}
+body{
+  background-image: url(WhatsApp\ Image\ 2026-04-15\ at\ 10.26.54\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
+    display: auto;
+}
